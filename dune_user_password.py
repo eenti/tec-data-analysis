@@ -1,3 +1,2 @@
 dune_username =  "rxx_"
-dune_password = ""
-testing = 123456789876543
+dune_password = "m8^AhitjL2hxaimXF8GJ"
