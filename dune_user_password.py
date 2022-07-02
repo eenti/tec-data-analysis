@@ -1,2 +1,2 @@
-dune_username =  "rxx_"
-dune_password = ""
+dune_username =  "your_username"
+dune_password = "your_password"
