@@ -1,0 +1,958 @@
+{
+    "data": {
+        "get_result_by_result_id": [
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 191565.34628,
+                    "date": "2022-01-25T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 6339.0558,
+                    "date": "2022-01-26T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 4611.64,
+                    "date": "2022-01-27T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.04533910003574681,
+                    "date": "2022-01-27T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 320.67508,
+                    "date": "2022-01-28T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.04591760745718204,
+                    "date": "2022-01-28T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 87.56,
+                    "date": "2022-01-29T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 57.74956,
+                    "date": "2022-01-30T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.9644675863425795,
+                    "date": "2022-01-30T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 3.19,
+                    "date": "2022-01-31T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 31.03346755610446,
+                    "date": "2022-01-31T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 66.0,
+                    "date": "2022-02-01T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 2.86,
+                    "date": "2022-02-03T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 70.04882340337412,
+                    "date": "2022-02-03T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 990.44066,
+                    "date": "2022-02-04T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 2.978681731320933,
+                    "date": "2022-02-04T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 77.39006,
+                    "date": "2022-02-05T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 83.98418148970565,
+                    "date": "2022-02-05T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 17.97862,
+                    "date": "2022-02-06T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 119.9,
+                    "date": "2022-02-08T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 25.74,
+                    "date": "2022-02-09T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 1056.0,
+                    "date": "2022-02-12T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 60.5,
+                    "date": "2022-02-14T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 12.1,
+                    "date": "2022-02-16T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 95.7,
+                    "date": "2022-02-17T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.04591842039791525,
+                    "date": "2022-02-17T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 22.0,
+                    "date": "2022-02-21T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.66,
+                    "date": "2022-02-22T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 132.0,
+                    "date": "2022-02-23T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 23.836195642748017,
+                    "date": "2022-02-24T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 18.04,
+                    "date": "2022-02-25T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.11070881483505124,
+                    "date": "2022-02-27T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.2,
+                    "date": "2022-02-28T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.02065460897753026,
+                    "date": "2022-02-28T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 138.0,
+                    "date": "2022-03-02T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 9.0,
+                    "date": "2022-03-09T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 186.94638,
+                    "date": "2022-03-10T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 368.92692,
+                    "date": "2022-03-15T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 1.8,
+                    "date": "2022-03-16T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.09200461103175618,
+                    "date": "2022-03-16T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.54,
+                    "date": "2022-03-17T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 3.1419,
+                    "date": "2022-03-24T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 8.0,
+                    "date": "2022-03-27T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.88,
+                    "date": "2022-03-29T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 88.0,
+                    "date": "2022-03-30T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 168.11460032190203,
+                    "date": "2022-04-04T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 26.04253314435836,
+                    "date": "2022-04-06T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 457.51706,
+                    "date": "2022-04-07T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 103.88,
+                    "date": "2022-04-10T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 314.3,
+                    "date": "2022-04-12T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 43.882060191179555,
+                    "date": "2022-04-18T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 56.364,
+                    "date": "2022-04-21T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 364.92750534896334,
+                    "date": "2022-04-29T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 2.28,
+                    "date": "2022-05-02T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 24.0,
+                    "date": "2022-05-03T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 569.0847007833581,
+                    "date": "2022-05-03T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 57.24,
+                    "date": "2022-05-05T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 146.20221907006604,
+                    "date": "2022-05-05T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 27.67807215030849,
+                    "date": "2022-05-07T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 11.957092827822404,
+                    "date": "2022-05-08T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 1.2,
+                    "date": "2022-05-09T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 557.1187376437376,
+                    "date": "2022-05-09T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 180.12,
+                    "date": "2022-05-10T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 131.39462895538557,
+                    "date": "2022-05-10T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 188.1102940408641,
+                    "date": "2022-05-11T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 315.9188452086009,
+                    "date": "2022-05-12T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 11.355409754666704,
+                    "date": "2022-05-13T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 84.99693358485814,
+                    "date": "2022-05-14T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.20523209501313214,
+                    "date": "2022-05-16T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 24938.9364484201,
+                    "date": "2022-05-17T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 1.189,
+                    "date": "2022-05-18T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.13729562336911438,
+                    "date": "2022-05-18T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 126.0,
+                    "date": "2022-05-19T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 1.281368302646278,
+                    "date": "2022-05-19T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 28.43568,
+                    "date": "2022-05-25T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 35.15404172308218,
+                    "date": "2022-05-25T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 59.2,
+                    "date": "2022-05-26T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 147.34760194578922,
+                    "date": "2022-05-26T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 300.5726440756042,
+                    "date": "2022-05-27T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 23.02624,
+                    "date": "2022-05-28T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 51.6398779146556,
+                    "date": "2022-05-28T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 6.6645652635252395,
+                    "date": "2022-05-29T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 131.14051698281466,
+                    "date": "2022-06-02T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 117.84575434092741,
+                    "date": "2022-06-03T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 4.296091466603115,
+                    "date": "2022-06-04T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 7337.958226307859,
+                    "date": "2022-06-06T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 533.2739764280752,
+                    "date": "2022-06-10T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 11.23664107864971,
+                    "date": "2022-06-11T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 60.52215523585132,
+                    "date": "2022-06-12T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 499.21564080864886,
+                    "date": "2022-06-13T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 4.30458,
+                    "date": "2022-06-14T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 23.368371808387938,
+                    "date": "2022-06-14T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 157.52082777473743,
+                    "date": "2022-06-15T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 73.10930565356038,
+                    "date": "2022-06-16T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 92.10310048964229,
+                    "date": "2022-06-17T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 306.1616326110507,
+                    "date": "2022-06-18T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 9.856116413943669,
+                    "date": "2022-06-23T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 0.833004667986204,
+                    "date": "2022-06-24T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 19.014861580470818,
+                    "date": "2022-06-25T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 14.11972,
+                    "date": "2022-06-26T00:00:00+00:00",
+                    "action": "Buy"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 43.628371214798946,
+                    "date": "2022-06-26T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 9.977939722346001,
+                    "date": "2022-06-27T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 205.9456299797806,
+                    "date": "2022-06-30T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            },
+            {
+                "__typename": "get_result_template",
+                "data": {
+                    "tribute_total": 245921.74910840436,
+                    "sum": 1.6743348760208538,
+                    "date": "2022-07-01T00:00:00+00:00",
+                    "action": "Sell"
+                }
+            }
+        ],
+        "query_errors": [],
+        "query_results": [
+            {
+                "__typename": "query_results",
+                "columns": [
+                    "date",
+                    "action",
+                    "sum",
+                    "tribute_total"
+                ],
+                "generated_at": "2022-07-02T17:35:27.61867+00:00",
+                "runtime": 0,
+                "job_id": "755e016f-7117-4670-9b8c-0baecac121fa",
+                "id": "0a91f187-084f-4e24-84f0-3adb4f813f4f"
+            }
+        ]
+    }
+}
