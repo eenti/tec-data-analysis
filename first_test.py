@@ -1,20 +1,19 @@
 # packages
+import os
+from dotenv import load_dotenv
 from duneanalytics import *
-import pandas as pd
 import json
 
-# your user and password. doing this so i can gitignore my user/pwd and so keep the repo public 
-from dune_user_password import dune_username, dune_password
+load_dotenv()
+
+dune_user = os.environ.get("DUNE_USER") or 5000
+dune_pwd = os.environ.get("DUNE_PWD") or 5000
 
 # fetch query results from dune as a json
-dune = DuneAnalytics(dune_username, dune_password)
+dune = DuneAnalytics(dune_user, dune_pwd)
 dune.login()
 dune.fetch_auth_token()
 result_id = dune.query_result_id(query_id=991461)
 data = dune.query_result(result_id)
 
-df = pd.DataFrame.from_dict(data)
-print(df["data"])
-
-#with open('data.json', 'w+') as f:
-#    json.dump(data, f)
+# conversion of this result into csv
