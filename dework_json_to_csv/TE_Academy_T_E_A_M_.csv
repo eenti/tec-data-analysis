@@ -1,29 +1,201 @@
-team,id,status,name,doneAt,token,amount,username,payment_status,tx_hash,datetime
-TE Academy T.E.A.M.,b41b117f-ea66-4217-b80f-0de80c0b5f0d,DONE,Refund 200 TEC/TEA buttons,2022-05-13T17:25:17.884Z,WXDAI,23.0,AnaTech,CONFIRMED,0xb7f1be393291caefa304a4bf5392cd2628bd755fc22b7a57880973fafe5d5d5b,2022-05-13
-TE Academy T.E.A.M.,c679fad6-8336-489d-820f-c18bcac81046,DONE,May Week 1,2022-05-16T15:22:11.371Z,WXDAI,171.0,angieberryberry,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
-TE Academy T.E.A.M.,fe846c67-9bbd-48a4-94da-4cd627f978ef,DONE,April - Design Work,2022-05-16T15:22:08.809Z,WXDAI,71.25,EFRA,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
-TE Academy T.E.A.M.,a54821db-685a-4f7e-ba1e-ef9603997cda,DONE,1st May week || AnaTech,2022-05-16T15:22:09.440Z,WXDAI,171.0,AnaTech,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
-TE Academy T.E.A.M.,96d78d71-b58a-4541-95fc-898e342364d9,DONE,April 4rd week || AnaTech,2022-05-16T15:22:12.118Z,WXDAI,142.5,AnaTech,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
-TE Academy T.E.A.M.,e699840b-ad2a-4f35-aea8-fb4571fe0485,DONE,April 3rd week || AnaTech,2022-05-03T10:15:19.727Z,WXDAI,171.0,AnaTech,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
-TE Academy T.E.A.M.,90f6e8c6-c094-40ea-b9e7-bd144cc69da3,DONE,April Week 4,2022-05-03T10:15:19.105Z,WXDAI,171.0,angieberryberry,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
-TE Academy T.E.A.M.,8cf2df29-41e5-4e3b-a776-57f686c17f5d,DONE,April Week 3,2022-05-03T10:15:18.402Z,WXDAI,171.0,angieberryberry,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
-TE Academy T.E.A.M.,083fba9b-24de-4764-9dde-61834d7d0429,DONE,April Week 2,2022-05-03T10:15:17.571Z,WXDAI,171.0,angieberryberry,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
-TE Academy T.E.A.M.,bd05d3a1-1af8-43fb-92fe-9a75dde7b287,DONE,April Week 1 ,2022-04-11T15:24:37.902Z,WXDAI,171.0,angieberryberry,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
-TE Academy T.E.A.M.,b6ea1312-2e5a-452e-b958-e001c77b04f9,DONE,April 2nd week || AnaTech,2022-05-03T10:15:17.004Z,WXDAI,171.0,AnaTech,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
-TE Academy T.E.A.M.,9600cad9-54ff-495e-a8ae-cb8017c65906,DONE,April 1st week || AnaTech,2022-04-11T15:26:33.560Z,WXDAI,171.0,AnaTech,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
-TE Academy T.E.A.M.,1d86247a-b935-4b10-ac3d-f87eefdefd92,DONE,March Week 5 || Ana Tech,2022-04-11T15:26:35.714Z,WXDAI,171.0,AnaTech,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
-TE Academy T.E.A.M.,49cf95c1-79ff-4e2e-abd1-cb089a0ebb78,DONE,March week 4 || AnaTech,2022-04-04T15:10:46.805Z,WXDAI,47.5,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
-TE Academy T.E.A.M.,91b2967a-0e37-428f-9c74-0111719e75da,DONE,March week 3 || AnaTech,2022-04-04T15:10:46.409Z,WXDAI,95.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
-TE Academy T.E.A.M.,a63768f5-d61c-45a3-8bd3-20bf6b362d97,DONE,March week 2 || AnaTech,2022-04-04T15:10:45.847Z,WXDAI,47.5,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
-TE Academy T.E.A.M.,0289f302-b93c-4cd9-99fc-0e95e242b9fb,DONE,March week 1 || AnaTech,2022-04-04T15:10:44.041Z,WXDAI,95.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
-TE Academy T.E.A.M.,e45df9dd-6aba-450b-ba62-8dc2edac582b,DONE,February week 2 || AnaTech,2022-04-04T15:10:42.712Z,WXDAI,171.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
-TE Academy T.E.A.M.,6b241ef8-6abb-40c2-b214-8c38aa82b1eb,DONE,February week 1 || AnaTech,2022-04-04T15:10:42.584Z,WXDAI,171.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
-TE Academy T.E.A.M.,70b7c918-a2b8-4280-ab1d-6fd4a7e13f4b,DONE,March Week 5,2022-04-11T15:21:59.563Z,WXDAI,171.0,angieberryberry,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
-TE Academy T.E.A.M.,36220ac6-ee4e-4e0c-a736-66b106956514,DONE,March Week 4 ,2022-03-28T19:51:07.534Z,WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
-TE Academy T.E.A.M.,b23544c2-ee3c-4fd5-98fe-8d210858c8cb,DONE,March Week 3,2022-03-28T19:51:03.591Z,WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
-TE Academy T.E.A.M.,14ba0ebf-b6fe-4f11-a277-52fa89176025,DONE,March Week 2,2022-03-28T16:11:56.839Z,WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
-TE Academy T.E.A.M.,1ee0e02c-785c-4040-8762-e45829b15324,DONE,March Week 1,2022-03-28T16:11:35.328Z,WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
-TE Academy T.E.A.M.,96b48b4c-0a24-40fd-89ef-dc45e198ca3d,DONE,February Week 2,2022-03-28T16:10:02.782Z,WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
-TE Academy T.E.A.M.,3fad3997-d096-4137-b694-57053403c43c,DONE,February Week 1,2022-03-28T16:09:58.625Z,WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
-TE Academy T.E.A.M.,caef3e3b-3d29-4618-a9b7-7ba2ad59f54f,DONE,Angieberryberry's Prep Work,2022-03-15T16:21:01.714Z,WXDAI,500.0,angieberryberry,CONFIRMED,0x3f15c4a78af8f9f09e6b010b99de232a801503143b0635d83589193203b33d6b,2022-03-15
-TE Academy T.E.A.M.,d23b5584-6783-46ae-b4d6-111b7ae3424d,DONE,AnaTech's Prep Work,2022-03-15T16:23:40.104Z,WXDAI,500.0,AnaTech,CONFIRMED,0x3f15c4a78af8f9f09e6b010b99de232a801503143b0635d83589193203b33d6b,2022-03-15
+team,id,status,name,doneAt,desciption,token,amount,username,payment_status,tx_hash,datetime
+TE Academy T.E.A.M.,b41b117f-ea66-4217-b80f-0de80c0b5f0d,DONE,Refund 200 TEC/TEA buttons,2022-05-13T17:25:17.884Z,"Each button cost $4.5 MXN, total $900 MXN
+
+\
+\
+46 USD 
+
+\
+\
+ ![](https://storage.googleapis.com/assets.dework.xyz/uploads/1b6d013f-0956-4b22-9d79-56956cc9ea75/image.png)",WXDAI,23.0,AnaTech,CONFIRMED,0xb7f1be393291caefa304a4bf5392cd2628bd755fc22b7a57880973fafe5d5d5b,2022-05-13
+TE Academy T.E.A.M.,c679fad6-8336-489d-820f-c18bcac81046,DONE,May Week 1,2022-05-16T15:22:11.371Z,"Twitter/Discord content, planning and posting. (from May 2 to 8)
+
+* Create promotional tweets for this week's events (TE360 Around the Globe, Interaction with followers, TE Fundamentals Partners, Memes)
+* Share announcements on Discord channels (TEA and TEC Announcement Channels)
+* Work with EFRA on creating visual for “How to join TE Fundamentals”
+* Weekly meeting with Pati, Ana and Angela to discuss marketing plans, elaborate ideas, and create drafts of future events.
+* Meeting with Gravity Team to work on Mental Health event for TEC.
+* Research on Mental Health in the workspace.
+
+\
+",WXDAI,171.0,angieberryberry,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
+TE Academy T.E.A.M.,fe846c67-9bbd-48a4-94da-4cd627f978ef,DONE,April - Design Work,2022-05-16T15:22:08.809Z,"Design work done for TE Academy: \n 
+
+Including infographics and Social Media banners for events.",WXDAI,71.25,EFRA,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
+TE Academy T.E.A.M.,a54821db-685a-4f7e-ba1e-ef9603997cda,DONE,1st May week || AnaTech,2022-05-16T15:22:09.440Z,"* Weekly TEAM Meeting
+* Meeting with Angela
+* Results preparation  april
+* Adjusting last details on the Twitter Campaign
+
+\*Collect information about the courses to be able to share them
+TE Fundamentals (I already have it, it's just to summarize it and put the important links)
+TECLabs (discord bots) Find YGG and YVI to ask them for details
+\*\*Gravity (with juanka, ask her for information about the courses and details)
+
+Get spotlight to offer the above 3 courses:
+\*Shapeshift /Giveth : find willyfox
+\*Opolis Search for 0xJoshua (part of gitcoin tmbn)
+\*Lauren Giveth: to ask her to be in a community call to share about the academy opportunities \n  \n Preparing the presentation for the community calls
+
+\
+",WXDAI,171.0,AnaTech,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
+TE Academy T.E.A.M.,96d78d71-b58a-4541-95fc-898e342364d9,DONE,April 4rd week || AnaTech,2022-05-16T15:22:12.118Z,"\*Sharing content ideas for twitter and posts, (april 25-may1)
+
+\*weekly meeting 
+
+\*Preparation of the presentation of local hubs
+
+\*Preparation for the marketing campaign “MeetTE”(name to be defined)
+
+ \n ",WXDAI,142.5,AnaTech,FAILED,0xa85934717d0c4459ab2636951bb2f67b9522af6c71d0f318212077c40bbfde1a,processing
+TE Academy T.E.A.M.,e699840b-ad2a-4f35-aea8-fb4571fe0485,DONE,April 3rd week || AnaTech,2022-05-03T10:15:19.727Z,"* Weekly Sync with TEA TEAM 
+* Weekly sync with Angela
+* Development of the TEA Local Hubs Presentation
+* Planning and posting content for TE Twitter
+* Looking for a supplier to send swag to EthAmsterdam and then looking for more because the first supplier didnt made them :((((((( :( :( :( :(
+
+\
+",WXDAI,171.0,AnaTech,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
+TE Academy T.E.A.M.,90f6e8c6-c094-40ea-b9e7-bd144cc69da3,DONE,April Week 4,2022-05-03T10:15:19.105Z,"Twitter/Discord content, planning and posting. (from April 25 to May 1)
+
+* Create promotional tweets for this week's events (TE360 APAC, Introduction to TE, How to join TE Fundamentals, Angela’s talk, Interaction with followers, TE Hardskills, Memes)
+* Share announcements on Discord channels (TEA/TEC Announcements)
+* Work with Efra to create visuals for TE Academy. 
+* Meeting with Angela and Pati to talk about future content and share information about future events).
+* Do research to create a Mental Health event for the community.
+* Plan a Mental Health event with Juanka and Bianca. 
+
+\
+",WXDAI,171.0,angieberryberry,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
+TE Academy T.E.A.M.,8cf2df29-41e5-4e3b-a776-57f686c17f5d,DONE,April Week 3,2022-05-03T10:15:18.402Z,"Twitter/Discord content, planning and posting. (from April 17 to 24)
+
+* Create promotional tweets for this week's events (TE360 Local Hubs, DevConnect Amsterdam, The DAOist GGG in Amsterdam, Interaction with followers, TE Fundamentals APAC, TE Hardskills, Memes)
+* Share announcements on Discord channels (TEA/TEC Announcements)
+* Work with Efra to create visuals for The Daoist GGG talks.
+* Weekly meeting with Pati and Ana to discuss marketing plans, elaborate ideas, and create drafts of future events.
+* Do research to create a Mental Health event for the community. 
+
+\
+",WXDAI,171.0,angieberryberry,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
+TE Academy T.E.A.M.,083fba9b-24de-4764-9dde-61834d7d0429,DONE,April Week 2,2022-05-03T10:15:17.571Z,"Twitter/Discord content, planning and posting. (from April 11 to 17)
+
+* Create promotional tweets for this week's events (TE360 Local Hubs, DevConnect Amsterdam, Interaction with followers, TE Fundamentals Partners, Memes)
+* Share announcements on Discord channels (Amplify and Announcements)
+* Revised Token Engineering’s newsletter.
+* Presentation of Twitter Monthly Report to the Marketing Team.
+* Weekly meeting with Pati and Ana to discuss marketing plans, elaborate ideas, and create drafts of future events.
+
+\
+",WXDAI,171.0,angieberryberry,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
+TE Academy T.E.A.M.,bd05d3a1-1af8-43fb-92fe-9a75dde7b287,DONE,April Week 1 ,2022-04-11T15:24:37.902Z,"Twitter/Discord content, planning and posting. (from April 4 to 10 )
+
+* Create promotional tweets for this week's events (TE 360 Session 5, TE 360 Local Hubs, DevConnect, TE Hard Skills, Interaction with our followers, FunDay Meme, Consensys)
+* Share announcements on Discord channels (Amplify and Announcements)
+* Meeting with Angela, Pati, Patricia and Ana to share March’s Monthly Twitter Review and discuss how we can improve the twitter account. 
+* Weekly meeting with Pati and Ana to discuss marketing plans, elaborate ideas, and create drafts of future events.
+
+\
+",WXDAI,171.0,angieberryberry,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
+TE Academy T.E.A.M.,b6ea1312-2e5a-452e-b958-e001c77b04f9,DONE,April 2nd week || AnaTech,2022-05-03T10:15:17.004Z,"* Weekly Sync with TEA TEAM (1 Hour)
+* Weekly sync with Angela (.5 hour)
+* TEC.TEAMDAO Sync (1 Hour) 
+* Development of the TEA Local Hubs Presentation
+* Planning and posting content for TE Twitter
+* 1 tweet and 1 thread tweet creation for TEC Twitter Planning
+* \
+* \
+
+\
+",WXDAI,171.0,AnaTech,CONFIRMED,0x820147891c0ab91e42a6c9db6dce66bef305b944f1aa71ec1b718c1d2e77d204,2022-05-03
+TE Academy T.E.A.M.,9600cad9-54ff-495e-a8ae-cb8017c65906,DONE,April 1st week || AnaTech,2022-04-11T15:26:33.560Z,"* Weekly sync (1hour)
+* Meeting with TEA Team (1hour)
+* Twitter results presentation design modifications and last data page.
+* Started with the TEA local hubs presentation in Spanish.
+
+\
+",WXDAI,171.0,AnaTech,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
+TE Academy T.E.A.M.,1d86247a-b935-4b10-ac3d-f87eefdefd92,DONE,March Week 5 || Ana Tech,2022-04-11T15:26:35.714Z,"* Twitter Planning, memes and post created
+* 1 hour Regular Meeting. (Mon (2), Tuesday (1)  (thursday (1)
+* Sharing about TEA on Blu3DAO Telegram, Cryptoniñxs Telegram, HER DAO telegram and answering messages
+* Sharing about TEA about the introduction to token engineering
+* Meeting with Pati, Angela, Angy and Patricia to get to know each other and evaluate efforts
+* Funday creation post day
+
+\
+",WXDAI,171.0,AnaTech,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
+TE Academy T.E.A.M.,49cf95c1-79ff-4e2e-abd1-cb089a0ebb78,DONE,March week 4 || AnaTech,2022-04-04T15:10:46.805Z,"Twitter/Discord Planning some tweets and memes (from March 21 to 27)
+
+https://www.notion.so/te-academy/dc5d6907270348f88daa8a1997e3c8b0?v=d3f240ce17c04fafb29a66eccfd39c40",WXDAI,47.5,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
+TE Academy T.E.A.M.,91b2967a-0e37-428f-9c74-0111719e75da,DONE,March week 3 || AnaTech,2022-04-04T15:10:46.409Z,"- Twitter/Discord Planning some tweets (from March 14 to 20)
+- Pins created and delivered at EthRio
+- Networking and talked about TEA
+- Photos taken of TEA and TEC at EthRio
+
+https://www.notion.so/te-academy/dc5d6907270348f88daa8a1997e3c8b0?v=d3f240ce17c04fafb29a66eccfd39c40
+",WXDAI,95.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
+TE Academy T.E.A.M.,a63768f5-d61c-45a3-8bd3-20bf6b362d97,DONE,March week 2 || AnaTech,2022-04-04T15:10:45.847Z,"Twitter/Discord content, planning (from February 28 to March 6)
+
+
+
+https://www.notion.so/te-academy/dc5d6907270348f88daa8a1997e3c8b0?v=d3f240ce17c04fafb29a66eccfd39c40",WXDAI,47.5,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
+TE Academy T.E.A.M.,0289f302-b93c-4cd9-99fc-0e95e242b9fb,DONE,March week 1 || AnaTech,2022-04-04T15:10:44.041Z,"- Twitter/Discord content, planning  (from February 28 to March 6)
+
+- The DAOist  TEA Presentation Planning 
+- The DAOist TEA Presentation translation
+- TheDAOist TEA Presentation
+- Pins created for TheDAOist TEC and TEA 
+- Pins delivered and photos in the DAOist mexico
+
+https://www.notion.so/te-academy/dc5d6907270348f88daa8a1997e3c8b0?v=d3f240ce17c04fafb29a66eccfd39c40",WXDAI,95.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
+TE Academy T.E.A.M.,e45df9dd-6aba-450b-ba62-8dc2edac582b,DONE,February week 2 || AnaTech,2022-04-04T15:10:42.712Z,"- Twitter/Discord content, planning and posting. (from February 14 to 20)
+
+- Regular 1 hour meetings to plan it.
+
+- Notion  Page created to share drafts about tweets ideas before getting access to the Notion Page of TEA
+- Twitter results 
+- Token Engineerin Commons and Token Engineering Academy Pins created and gifted at Eth Denver 
+https://www.notion.so/Content-suggestions-b992c82ff26f44a0ad474d40be6596e7 
+
+ ![tec.PNG](https://storage.googleapis.com/assets.dework.xyz/uploads/99368fa6-903a-448f-a21c-6682635c7247/tec.PNG) 
+
+ ![WhatsApp Image 2022-03-28 at 1.01.31 PM.jpeg](https://storage.googleapis.com/assets.dework.xyz/uploads/246b4b0d-76d1-4d10-9148-b1ae9f696061/WhatsApp-Image-2022-03-28-at-1.01.31-PM.jpeg)",WXDAI,171.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
+TE Academy T.E.A.M.,6b241ef8-6abb-40c2-b214-8c38aa82b1eb,DONE,February week 1 || AnaTech,2022-04-04T15:10:42.584Z,"- Twitter/Discord content, planning and posting. (from February 14 to 20)
+
+- Regular  1 hour meetings to plan it.
+
+- Notion Page created to share drafts about tweets ideas  
+https://www.notion.so/Content-suggestions-b992c82ff26f44a0ad474d40be6596e7
+
+
+ ![tec.PNG](https://storage.googleapis.com/assets.dework.xyz/uploads/b70caded-82d4-4669-b265-63f58bd57c9b/tec.PNG)",WXDAI,171.0,AnaTech,CONFIRMED,0x3db5b61c03d6461eecb06b76ca001a8a71b70cf6f6bdf7f49b009ea513a5c286,2022-04-04
+TE Academy T.E.A.M.,70b7c918-a2b8-4280-ab1d-6fd4a7e13f4b,DONE,March Week 5,2022-04-11T15:21:59.563Z,"Twitter/Discord content, planning and posting. (from March 28 to April 3)
+
+* Create promotional tweets for this week's events (TE 360, TokenSPICE, Introduction to Token Engineering, DevConnect)
+* Share announcements on Discord channels (Amplify and Announcements)
+* Work with @efra for TokenSPICE visuals
+* Meeting with Angela, Pati, Patricia and Ana to talk about Token Engineering's achievements so far and how can we grow/improve.
+* Weekly meeting with Pati and Ana to discuss marketing plans, elaborate ideas, and create drafts of future events. 
+
+\
+",WXDAI,171.0,angieberryberry,CONFIRMED,0x4216d3fb74cc4a92ee71258d0737e3786f0561ec44ea7cd099740addded9c65c,2022-04-11
+TE Academy T.E.A.M.,36220ac6-ee4e-4e0c-a736-66b106956514,DONE,March Week 4 ,2022-03-28T19:51:07.534Z,"Twitter/Discord content, planning and posting. (from March 21 to 27)",WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
+TE Academy T.E.A.M.,b23544c2-ee3c-4fd5-98fe-8d210858c8cb,DONE,March Week 3,2022-03-28T19:51:03.591Z,"Twitter/Discord content, planning and posting. (from March 14 to 20)",WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
+TE Academy T.E.A.M.,14ba0ebf-b6fe-4f11-a277-52fa89176025,DONE,March Week 2,2022-03-28T16:11:56.839Z,"Twitter/Discord content, planning and posting. (from March 7 to 13)",WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
+TE Academy T.E.A.M.,1ee0e02c-785c-4040-8762-e45829b15324,DONE,March Week 1,2022-03-28T16:11:35.328Z,"Twitter/Discord content, planning and posting. (from February 28 to March 6)",WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
+TE Academy T.E.A.M.,96b48b4c-0a24-40fd-89ef-dc45e198ca3d,DONE,February Week 2,2022-03-28T16:10:02.782Z,"Twitter/Discord content, planning and posting. (from February 21 to 27)",WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
+TE Academy T.E.A.M.,3fad3997-d096-4137-b694-57053403c43c,DONE,February Week 1,2022-03-28T16:09:58.625Z,"Twitter/Discord content, planning and posting. (from February 14 to 20) 
+
+Regular 1 hour meetings to plan it.",WXDAI,171.0,angieberryberry,CONFIRMED,0xbe39ba61705f7f94ac14f8dd269d85f59b30409d9149327f356a9a6b41e1c9dd,2022-03-28
+TE Academy T.E.A.M.,caef3e3b-3d29-4618-a9b7-7ba2ad59f54f,DONE,Angieberryberry's Prep Work,2022-03-15T16:21:01.714Z,xdai:0xdb533912FE7349392e6255d359a8b9ac1A6174bD,WXDAI,500.0,angieberryberry,CONFIRMED,0x3f15c4a78af8f9f09e6b010b99de232a801503143b0635d83589193203b33d6b,2022-03-15
+TE Academy T.E.A.M.,d23b5584-6783-46ae-b4d6-111b7ae3424d,DONE,AnaTech's Prep Work,2022-03-15T16:23:40.104Z,"Studying topics for research:
+•University of Economics in Vienna
+•Shermin Voshmgir: Author of Token Economy
+    https://youtu.be/JPGNvKy6DTA 
+    https://youtu.be/hyMMl33w1z0 
+•Token Engineering Commons Gitbook
+•Angela Kreitenweis: TE Academy Founder
+    Medium
+    Twitter
+DAO Rewards Assemblage: https://youtu.be/wndDaI-eNgc 
+
+",WXDAI,500.0,AnaTech,CONFIRMED,0x3f15c4a78af8f9f09e6b010b99de232a801503143b0635d83589193203b33d6b,2022-03-15
