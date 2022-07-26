@@ -7,8 +7,8 @@ from web3 import Web3
 web3 = Web3(Web3.HTTPProvider('https://rpc.gnosischain.com'))
 web3.isConnected()
 
-input_json = '/home/rxx/Documents/GitHub/tec-data-analysis/dework_json_to_csv/20220724_teacademy_team.json'
-team = 'TE Academy T.E.A.M.'
+input_json = '/home/rxx/Documents/GitHub/tec-data-analysis/dework_json_to_csv/20220724_twitter_team.json'
+team = 'Twitter T.E.A.M.'
 
 output_csv = "/home/rxx/Documents/GitHub/tec-data-analysis/dework_json_to_csv/"+team.replace('.', '_').replace(' ', '_')+".csv"
 
@@ -27,8 +27,11 @@ for i in range(0, len(json_dict)):
     for j in column_list:
         row.append(json_dict[i][j])
     
+    row.append(json_dict[i]['description'])
+
+    
     if (i == 0):
-        column_list_header = ["team","id","status","name","doneAt","token","amount","username","payment_status","tx_hash","datetime"]
+        column_list_header = ["team","id","status","name","doneAt",'desciption',"token","amount","username","payment_status","tx_hash","datetime"]
         csv_list.append(column_list_header) 
     
     if row[2] == 'DONE': # strip out in progress cards
@@ -37,7 +40,7 @@ for i in range(0, len(json_dict)):
         rewards_json = (json_dict[i]['rewards'])[0] # only 1 reward for now
         
         token = rewards_json['token']['symbol']
-        amount = int(rewards_json['amount'])/2e18
+        amount = int(rewards_json['amount'])/2e18*2
 
         row.append(token); column_list.append('token')
         row.append(amount); column_list.append('amount')
