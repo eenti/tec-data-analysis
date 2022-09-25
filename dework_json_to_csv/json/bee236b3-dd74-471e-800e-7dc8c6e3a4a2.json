@@ -1,0 +1,3017 @@
+{
+  "data": {
+    "workspace": {
+      "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+      "tasks": [
+        {
+          "id": "0966608d-6d65-4e2a-916e-fbe89813f187",
+          "name": "August newsletter creation and Marketing T.E.A.M. management",
+          "description": "",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "03",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-08-30T15:28:00.302Z",
+          "doneAt": "2022-08-30T15:28:46.529Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 222,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "7be50803-d5aa-4342-be97-715b0ce2e14f",
+              "amount": "400000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "2d9d1eef-5e00-4e55-84cf-47ce8a81420e",
+                  "amount": "400000000000000000000",
+                  "user": {
+                    "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+                    "username": "Mount Manu",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+                    "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+                    "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "1be83de4-9cf9-4bda-b498-d7c87eda4b10",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0xab00b473a84bee5705311ca53820148f5908e567492d30e6e988a6fab7185871",
+                      "txHash": "0x5b0dec273f96caf0251442ef50196cc5c3fa62846deee82cbf13abc7d676a2e9"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "6d5ba197-db64-45c1-a0bb-2bdf235487c6",
+          "name": "August Newsletters and Marketing T.E.A.M. Support",
+          "description": "Tasks performed during 2nd half of august\n\n* Crowdsourcing ideas for the newsletter and other marketing initiatives\n* Filtering ideas and help complete the newsletter\n\n\\\n",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "1661532875137",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-08-26T16:54:35.209Z",
+          "doneAt": "2022-08-26T16:55:05.634Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 221,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+              "username": "enti",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+              "permalink": "https://app.dework.xyz/profile/enti",
+              "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "d6bbf099-0a55-40ff-800c-e1cb9a450262",
+              "amount": "200000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "e4703a5f-9791-4518-ac6c-0a9d89f0c252",
+                  "amount": "200000000000000000000",
+                  "user": {
+                    "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+                    "username": "enti",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+                    "permalink": "https://app.dework.xyz/profile/enti",
+                    "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "1be83de4-9cf9-4bda-b498-d7c87eda4b10",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0xab00b473a84bee5705311ca53820148f5908e567492d30e6e988a6fab7185871",
+                      "txHash": "0x5b0dec273f96caf0251442ef50196cc5c3fa62846deee82cbf13abc7d676a2e9"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "d1a7defb-2805-4b74-8bbc-bda53e83eaa1",
+          "name": "Newsletter and Marketing T.E.A.M. Management",
+          "description": "",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "1659983512971",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-08-08T18:31:53.034Z",
+          "doneAt": "2022-08-08T18:31:52.971Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 215,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "2ca891c8-ac98-4376-812b-526d1ac16b5b",
+              "amount": "399000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "6c2c4bbe-b6a3-4670-afde-f9bfb1b1ef5e",
+                  "amount": "399000000000000000000",
+                  "user": {
+                    "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+                    "username": "Mount Manu",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+                    "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+                    "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "e1de9828-39fb-4f20-b5b6-e042b66bb21c",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x6b3872d182a174421baad511e4652134e471863ced6bfa90e0384531ce1b6910",
+                      "txHash": "0xa547df56a5117204863eb730d2479e2f469737fa2bbe84525f1a8f7a03ea665e"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "f2fbc3c9-5280-4493-adb6-15850054fd97",
+          "name": "July Newsletter 1",
+          "description": "Writting and sending the first July newsletter.",
+          "status": "DONE",
+          "priority": "HIGH",
+          "sortKey": "1656431467377",
+          "storyPoints": 21,
+          "dueDate": null,
+          "createdAt": "2022-06-28T15:51:07.416Z",
+          "doneAt": "2022-06-28T15:51:07.377Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 186,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+              "username": "enti",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+              "permalink": "https://app.dework.xyz/profile/enti",
+              "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+            "username": "enti",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+            "permalink": "https://app.dework.xyz/profile/enti",
+            "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "8eece165-8a2f-4951-a889-5d1eddf6f12b",
+              "amount": "399000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "c9550006-9960-45b5-bff1-6935f894cdc6",
+                  "amount": "399000000000000000000",
+                  "user": {
+                    "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+                    "username": "enti",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+                    "permalink": "https://app.dework.xyz/profile/enti",
+                    "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "ec1ca18f-7f8e-4eeb-b1de-890fdcf55542",
+                    "status": "FAILED",
+                    "data": {
+                      "safeTxHash": "0xbbfbf0c4feff1a8044f2b2f1a30f91c5124130060d81506c1e18b44b90aa6fbe"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "4b1f886c-dd5c-4c09-8b7b-08cb80e51f6b",
+          "name": "2nd Newsletter Creation and Marketing T.E.A.M. Support",
+          "description": "",
+          "status": "DONE",
+          "priority": "HIGH",
+          "sortKey": "1655828861817",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-06-21T16:27:41.913Z",
+          "doneAt": "2022-06-21T16:27:41.817Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 176,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [
+            {
+              "id": "9d1295af-30c2-4fcd-b3fb-0b9320b3af56",
+              "name": "Acquiring HubSpot credentials",
+              "status": "DONE",
+              "sortKey": "1655828862766",
+              "__typename": "Task"
+            },
+            {
+              "id": "ec7a495f-cc5e-4dce-b339-18fb53649d86",
+              "name": "Creation and Sending of 2nd Newsletter",
+              "status": "DONE",
+              "sortKey": "1655828863100",
+              "__typename": "Task"
+            }
+          ],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+              "username": "enti",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+              "permalink": "https://app.dework.xyz/profile/enti",
+              "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+            "username": "enti",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+            "permalink": "https://app.dework.xyz/profile/enti",
+            "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "b5185dd0-b061-456e-80ad-e63c0ab586da",
+              "amount": "199000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "99b320eb-2cae-4dc1-a51c-996e9fe0af71",
+                  "amount": "199000000000000000000",
+                  "user": {
+                    "id": "39ba18eb-b822-45b2-8f82-c6d4729f4684",
+                    "username": "enti",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/ac740152-97c3-4933-89aa-d498a91157e9/9e4c7c77d3de4bedf650021dabb5cced.jpg",
+                    "permalink": "https://app.dework.xyz/profile/enti",
+                    "nodeId": "6448b5c8-7a0f-42bf-8665-fd99ba3f3209",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "fbf4411b-3c24-411a-bb11-03de89ebd263",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0xddf8bf693a82acddab0c657d635a7ab02d7c1d0646ccbccec581bfb211dce8d4",
+                      "txHash": "0x99073ab1fc8cca961a3aff2ba09947f460e29d047b54bf67270a08eaf2db520a"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "94beb657-94cd-49fc-a14b-24320eb68129",
+          "name": "Marketing T.E.A.M. lead",
+          "description": "",
+          "status": "DONE",
+          "priority": "HIGH",
+          "sortKey": "03",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-06-09T17:42:31.345Z",
+          "doneAt": "2022-06-09T22:22:22.245Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 161,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [
+            {
+              "id": "0866e740-5901-418a-91a5-8f56e9adf676",
+              "name": "Biweekly Newsletter #2",
+              "status": "DONE",
+              "sortKey": "1654796551969",
+              "__typename": "Task"
+            },
+            {
+              "id": "fd2af8ec-a695-45b2-8077-4033ca2f7597",
+              "name": "Biweekly Newsletter #3",
+              "status": "DONE",
+              "sortKey": "1654796552432",
+              "__typename": "Task"
+            },
+            {
+              "id": "a4818256-34e5-4094-914d-9a8b0e381dc2",
+              "name": "Weekly Marketing T.E.A.M. syncs",
+              "status": "DONE",
+              "sortKey": "1654796552924",
+              "__typename": "Task"
+            }
+          ],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "67d60378-c37e-4f91-b6a4-d22e951f06f7",
+              "amount": "399000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "4f62a407-0a3d-424f-9427-ebf3bddef6ba",
+                  "amount": "399000000000000000000",
+                  "user": {
+                    "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+                    "username": "Mount Manu",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+                    "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+                    "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "f7cc2d56-f4f6-4c59-a074-be8712ed427c",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x071bb8b4401fdebcec61e27a91c93e6cb5426d8fab06c3ab82d0d70587bc5842",
+                      "txHash": "0x7ef9688ab4caf7aa01080298f4e130909145aed00d09bae4329da4fce6d5e78c"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "f9ad03cb-4d25-4abe-94c8-cbb43b35138e",
+          "name": "Chuy's reimbusement for Hubspot spendings ",
+          "description": "For the last months, Chuy and Manu have paid our Hubspot subscription out of their own pockets with this reimbursement in mind.\n\nSo far the spending for 3 months has been:\n\n**March**: $60.49 (paid by Chuy)\n\n**April**: $60.49 (paid by Manu)\n\nMay: $60.49 (paid by Manu)\n\n\\\nOn top of this we would like to request $450 to pay for the 9 months left in our 1-year subscription, which will be handled by Manu.",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "1652802397330",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-05-17T15:46:37.417Z",
+          "doneAt": "2022-05-17T15:49:48.560Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 139,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [
+            {
+              "id": "bf1674c6-cc58-4cfd-b77c-46777fc4af39",
+              "name": "Operations",
+              "emoji": "\u2699\ufe0f",
+              "imageUrl": null,
+              "__typename": "Skill"
+            },
+            {
+              "id": "ccc0294c-1b8a-43f7-b464-6f4a193e8ff2",
+              "name": "Marketing",
+              "emoji": "\ud83d\udce2",
+              "imageUrl": null,
+              "__typename": "Skill"
+            }
+          ],
+          "assignees": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+            "username": "chuygarcia",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+            "permalink": "https://app.dework.xyz/profile/chuygarcia",
+            "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "8abc02ad-1250-4821-9e12-ab221c9d46f3",
+              "amount": "60490000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "323d8c7b-4c64-46b3-8e23-38dddf86f540",
+                  "amount": "60490000000000000000",
+                  "user": {
+                    "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+                    "username": "chuygarcia",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+                    "permalink": "https://app.dework.xyz/profile/chuygarcia",
+                    "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "1f2cbf78-18f1-4de3-a060-7b2967a73fdf",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0xa3a49e01725d7da9b3c8afa012249bb2acad09bf66e7576795edf0ae258ba0c9",
+                      "txHash": "0xa0be9c4fafa04a4c2a11241ab21520c39790a5e82f522f7872793badba23a390"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "bb7036f6-96b2-4d8a-bd71-6ee9f010c12f",
+          "name": "Manu's reimbursement for Hubspot spendings + funding for 1 year",
+          "description": "For the last months, Chuy and Manu have paid our Hubspot subscription out of their own pockets with this reimbursement in mind. \n\nSo far the spending for 3 months has been:\n\n**March**: $60.49 (paid by Chuy)\n\n**April**: $60.49 (paid by Manu)\n\nMay: $60.49 (paid by Manu)\n\n\\\nOn top of this we would like to request $450 to pay for the 9 months left in our 1-year subscription, which will be handled by Manu.",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "1652802311579",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-05-17T15:45:11.622Z",
+          "doneAt": "2022-05-17T15:49:47.143Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 138,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [
+            {
+              "id": "bf1674c6-cc58-4cfd-b77c-46777fc4af39",
+              "name": "Operations",
+              "emoji": "\u2699\ufe0f",
+              "imageUrl": null,
+              "__typename": "Skill"
+            },
+            {
+              "id": "ccc0294c-1b8a-43f7-b464-6f4a193e8ff2",
+              "name": "Marketing",
+              "emoji": "\ud83d\udce2",
+              "imageUrl": null,
+              "__typename": "Skill"
+            }
+          ],
+          "assignees": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+            "username": "chuygarcia",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+            "permalink": "https://app.dework.xyz/profile/chuygarcia",
+            "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "231ea779-fb2d-4425-b147-9f58acee9de6",
+              "amount": "571000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "48f2075a-2f35-4fb1-a5a6-b9e62cf0395f",
+                  "amount": "571000000000000000000",
+                  "user": {
+                    "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+                    "username": "Mount Manu",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+                    "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+                    "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "1f2cbf78-18f1-4de3-a060-7b2967a73fdf",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0xa3a49e01725d7da9b3c8afa012249bb2acad09bf66e7576795edf0ae258ba0c9",
+                      "txHash": "0xa0be9c4fafa04a4c2a11241ab21520c39790a5e82f522f7872793badba23a390"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "9519543d-b058-48b4-b08f-9f1370fb9ba8",
+          "name": "Week May 2 - 8",
+          "description": "# [Discord broken link fix\u00a0#42](https://github.com/CommonsBuild/tec-web/pull/42)\n\n### Problem\n\nAll Discord links that redirected to\u00a0[discord.tecommons.org](https://github.com/CommonsBuild/tec-web/pull/discord.tecommons.org)\u00a0were broken.\n\n### Fix\n\nChanged all references of\u00a0[discord.tecommons.org](https://github.com/CommonsBuild/tec-web/pull/discord.tecommons.org)\u00a0to\u00a0<https://discord.gg/7WhT8ymgqD>.\n\n\\\n# [Nitfix for emails already registered for newsletter\u00a0#43](https://github.com/CommonsBuild/tec-web/pull/43)\n\n\\\n## What changed?\n\nWhen a user is already registered for the newsletter and they try register once again on the website now notifies the user that they are already signed in.\n\n| Normal error message | Already registered error message |\n|----|----|\n| <img width=\"453\" alt=\"image\" src=\"<https://user-images.githubusercontent.com/28935185/167467416-fae67563-ca73-4d03-b79d-9993d1e75a9e.png>\"> | <img width=\"454\" alt=\"image\" src=\"<https://user-images.githubusercontent.com/28935185/167467198-e0e35ea9-078b-4317-bc19-98f305bccce5.png>\"> |\n\n\\\n",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "1652721544064",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-05-16T17:19:04.105Z",
+          "doneAt": "2022-05-17T15:49:45.287Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 136,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [
+            {
+              "id": "d5cef8aa-efaf-466c-8cd9-289ee369b48e",
+              "name": "Development",
+              "emoji": "\ud83d\udcbb",
+              "imageUrl": null,
+              "__typename": "Skill"
+            }
+          ],
+          "assignees": [
+            {
+              "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+              "username": "casale.eth",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+              "permalink": "https://app.dework.xyz/profile/casale.eth",
+              "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+            "username": "casale.eth",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+            "permalink": "https://app.dework.xyz/profile/casale.eth",
+            "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "c793b4bb-6a91-4397-8a3c-9516e00f3107",
+              "amount": "57000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "5d29e859-9573-4134-bee8-b4e3b5eb0b4a",
+                  "amount": "57000000000000000000",
+                  "user": {
+                    "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+                    "username": "casale.eth",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+                    "permalink": "https://app.dework.xyz/profile/casale.eth",
+                    "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "1f2cbf78-18f1-4de3-a060-7b2967a73fdf",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0xa3a49e01725d7da9b3c8afa012249bb2acad09bf66e7576795edf0ae258ba0c9",
+                      "txHash": "0xa0be9c4fafa04a4c2a11241ab21520c39790a5e82f522f7872793badba23a390"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "09438977-0a0e-4cce-98b2-3ffe3fc2326e",
+          "name": "Week April 11 - 15",
+          "description": "# Working Groups update and TEC Handbook link correction\n\n\\\n# Working Groups Update\n\n## What's added?\n\n### Rewards working group card (see issue [#1241](https://github.com/CommonsBuild/coordination/issues/1241))\n\n| Normal | On Hover |\n|----|----|\n| <img width=\"524\" alt=\"image\" src=\"<https://user-images.githubusercontent.com/28935185/163249796-5ee5722a-2af3-4747-aac2-2aad134195cc.png>\"> | <img width=\"516\" alt=\"image\" src=\"<https://user-images.githubusercontent.com/28935185/163249852-0c51a58d-9329-45c1-b0fb-995b90665643.png>\"> |\n\n## What's removed?\n\n### Params and Commons Swarm working group card (see issue [#1241](https://github.com/CommonsBuild/coordination/issues/1241))\n\n| Parameters | Commons Swarm |\n|----|----|\n| <img width=\"522\" alt=\"image\" src=\"<https://user-images.githubusercontent.com/28935185/163250237-939b542f-d3ad-4642-95c8-069ee45eedfa.png>\"> | <img width=\"535\" alt=\"image\" src=\"<https://user-images.githubusercontent.com/28935185/163250269-b8223d07-072d-4036-b177-73cf4ea2b62e.png>\"> |\n\n## What's modified?\n\n### Stewards and Soft Gov meetings traded places (see issue [#1241](https://github.com/CommonsBuild/coordination/issues/1241)):\n\n* Stewards take place on Tuesdays at 7pm CET.\n* Soft Gov take place on Wednesdays at 7pm CET.\n\n\\\n# TEC Handbook Link Correction\n\n## What's modified?\n\n### Link corrections (see issue [#1229](https://github.com/CommonsBuild/coordination/issues/1229) and tec-web:issue #40 ):\n\n* TEC Handbook buttons now points to the correct [link](https://token-engineering-commons.gitbook.io/tec-handbook/).\n* Medium link now points to the [TEC profile](https://medium.com/token-engineering-commons).\n\n\\\n",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "01",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-04-19T18:48:31.689Z",
+          "doneAt": "2022-05-05T23:35:00.416Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 120,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+              "username": "casale.eth",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+              "permalink": "https://app.dework.xyz/profile/casale.eth",
+              "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+            "username": "casale.eth",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+            "permalink": "https://app.dework.xyz/profile/casale.eth",
+            "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "d54f6b76-752f-4ec6-a60c-c91cf1607b8f",
+              "amount": "57000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "601982fb-b411-48fc-8b32-1c8c7b9c062c",
+                  "amount": "57000000000000000000",
+                  "user": {
+                    "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+                    "username": "casale.eth",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+                    "permalink": "https://app.dework.xyz/profile/casale.eth",
+                    "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "5e930a32-f27c-4c0e-8735-f7cf5445a842",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x3a6b0633e458a61707ec0cb7550643d5320894b283dd9fefaf836be1b4cde0e1",
+                      "txHash": "0xea8f204932637574812ccda1864b5cc252d7287a5c27789b4a494985c19b8ca6"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "200b6180-3df8-4307-9ee3-f1433d1379fc",
+          "name": "Week Feb 14 - Feb 18",
+          "description": "# \"How to get $TEC\" button added for the [TEC Website](https://tecommons.org/)\n### A [Pull Request](https://github.com/CommonsSwarm/tec-convert/pull/62) was made for this issue:\n\nA button that redirects to [this link](https://token-engineering-commons.gitbook.io/tec-handbook/how-to-purchase-usdtec) was inserted in the bottom left corner.\n\n## Desktop View:\n![image](https://user-images.githubusercontent.com/28935185/152496351-12746194-472c-4450-8253-725857b45483.png) \n\n## Mobile View:\n![image](https://user-images.githubusercontent.com/28935185/152496390-17898eeb-4435-480f-93b5-758d8f27a33a.png)",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "02",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-03-29T02:48:46.620Z",
+          "doneAt": "2022-05-05T23:35:02.783Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 93,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+              "username": "casale.eth",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+              "permalink": "https://app.dework.xyz/profile/casale.eth",
+              "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+            "username": "casale.eth",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+            "permalink": "https://app.dework.xyz/profile/casale.eth",
+            "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "3c023705-9e90-4dc6-85f5-e5b68f39d15c",
+              "amount": "57000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "9b3d2bae-5085-45e8-89f8-1fb39a964689",
+                  "amount": "57000000000000000000",
+                  "user": {
+                    "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+                    "username": "casale.eth",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+                    "permalink": "https://app.dework.xyz/profile/casale.eth",
+                    "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "5e930a32-f27c-4c0e-8735-f7cf5445a842",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x3a6b0633e458a61707ec0cb7550643d5320894b283dd9fefaf836be1b4cde0e1",
+                      "txHash": "0xea8f204932637574812ccda1864b5cc252d7287a5c27789b4a494985c19b8ca6"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "19c2f44d-44d8-44cd-a873-619b24bdd00c",
+          "name": "Week Feb 21 - Feb 25",
+          "description": "# Updated the Mision Vision and Values for the [TEC Website](https://tecommons.org/)\n\nThe change was requested on the [issue #1139](https://github.com/CommonsBuild/coordination/issues/1139) and a [Pull Request](https://github.com/CommonsBuild/tec-web/pull/39) was made regarding this change:\n\n\n## Mission\n\nThe mission text is updated to what the [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values) says about the mission.\n\n<img width=\"704\" alt=\"image\" src=\"https://user-images.githubusercontent.com/28935185/155271280-bcfd25b4-dcab-44bb-9208-98f86ea70769.png\">\n\n## Vision and Values\n\nThe Vision and Values from the [TEC Handbook](https://token-engineering-commons.gitbook.io/tec-handbook/what-is-the-tec/mission-vision-and-values) have been added as a box of text similar to the Mission.\n\n<img width=\"1512\" alt=\"image\" src=\"https://user-images.githubusercontent.com/28935185/155271295-d246a790-1aae-494e-8a2b-32041c428e77.png\">\n\n\n\n\n",
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "03",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-03-29T02:37:34.736Z",
+          "doneAt": "2022-05-05T23:35:02.786Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 92,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+              "username": "casale.eth",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+              "permalink": "https://app.dework.xyz/profile/casale.eth",
+              "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+            "username": "casale.eth",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+            "permalink": "https://app.dework.xyz/profile/casale.eth",
+            "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "dab91e5f-c287-465a-b277-cf6e254787fc",
+              "amount": "57000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "631eda96-c269-4cd2-9fc1-0e09f4bf13e1",
+                  "amount": "57000000000000000000",
+                  "user": {
+                    "id": "11c7e643-0da0-44f9-8778-5409e886a508",
+                    "username": "casale.eth",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/f4c52b45-11ac-4238-9779-a3b14f4d4c6b/rod.jpg",
+                    "permalink": "https://app.dework.xyz/profile/casale.eth",
+                    "nodeId": "fbb1722e-64d1-4b41-ada9-fe7e597662b9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "5e930a32-f27c-4c0e-8735-f7cf5445a842",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x3a6b0633e458a61707ec0cb7550643d5320894b283dd9fefaf836be1b4cde0e1",
+                      "txHash": "0xea8f204932637574812ccda1864b5cc252d7287a5c27789b4a494985c19b8ca6"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "df371b6d-169d-4942-84cf-20452b83da7d",
+          "name": "HubSpot Retroactive Bonus",
+          "description": null,
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "03",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-02-16T14:42:44.334Z",
+          "doneAt": "2022-02-24T17:45:01.437Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 35,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "a9d3e0c4-0920-408b-876c-e3c82bbee834",
+              "amount": "1000000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "030f8c94-3637-450e-b4cb-e04fd762ce7f",
+                  "amount": "1000000000000000000000",
+                  "user": {
+                    "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+                    "username": "Mount Manu",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+                    "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+                    "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "5ebbe191-eeb7-4019-aaa8-a40143d5035d",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x755542c9139005b835930ded737fe978985d7a1054dc179cb7fb0c2d8d47ff74",
+                      "txHash": "0xa191582b2c3f2d03573e06ebaea927580c735cd8c33e245cec78c58ae28badd3"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "d7f32aa5-5593-4ff7-a4ec-fd737d0c5920",
+          "name": "HubSpot Retroactive Bonus",
+          "description": null,
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "05",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-02-16T14:42:39.815Z",
+          "doneAt": "2022-02-24T17:44:57.358Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 34,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "e6d3175b-45a7-42f3-a227-d28f0cc8b374",
+              "username": "durgadas",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/54276139-6ace-4999-9999-dd7e8687f07f/dd-looksup1.jpg",
+              "permalink": "https://app.dework.xyz/profile/durgadas",
+              "nodeId": "08741651-f538-404c-8abf-d3c0c1e06944",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "5ccef3be-f831-44b2-a2ec-eb641396c8a9",
+              "amount": "1000000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "0a9fcba2-5302-4b39-83e7-744cf23275e1",
+                  "amount": "1000000000000000000000",
+                  "user": {
+                    "id": "e6d3175b-45a7-42f3-a227-d28f0cc8b374",
+                    "username": "durgadas",
+                    "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/54276139-6ace-4999-9999-dd7e8687f07f/dd-looksup1.jpg",
+                    "permalink": "https://app.dework.xyz/profile/durgadas",
+                    "nodeId": "08741651-f538-404c-8abf-d3c0c1e06944",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "5ebbe191-eeb7-4019-aaa8-a40143d5035d",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x755542c9139005b835930ded737fe978985d7a1054dc179cb7fb0c2d8d47ff74",
+                      "txHash": "0xa191582b2c3f2d03573e06ebaea927580c735cd8c33e245cec78c58ae28badd3"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "0cb9754c-e8a0-46be-9c25-fb37750f061c",
+          "name": "HubSpot Retroactive Bonus",
+          "description": null,
+          "status": "DONE",
+          "priority": "NONE",
+          "sortKey": "03",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-02-16T14:42:21.535Z",
+          "doneAt": "2022-02-24T17:44:53.181Z",
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 33,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "96c9113e-452e-4f3d-b681-c9e49b63286f",
+              "username": "NateSuits",
+              "imageUrl": null,
+              "permalink": "https://app.dework.xyz/profile/NateSuits",
+              "nodeId": "4dab9c52-fe04-4b2f-bf83-7e4227ec4ffe",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [
+            {
+              "id": "d49d8f2a-0e9c-4da3-8558-356163a2f3b0",
+              "amount": "1000000000000000000000",
+              "peggedToUsd": false,
+              "fundingSessionId": null,
+              "token": {
+                "id": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+                "exp": 18,
+                "type": "ERC20",
+                "name": "Wrapped XDAI",
+                "symbol": "WXDAI",
+                "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+                "identifier": null,
+                "usdPrice": 0.9991,
+                "networkId": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                "visibility": "IF_HAS_BALANCE",
+                "imageUrl": null,
+                "__typename": "PaymentToken",
+                "network": {
+                  "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                  "slug": "gnosis-chain",
+                  "name": "xDai (Gnosis Chain)",
+                  "type": "ETHEREUM",
+                  "config": {
+                    "chainId": 100,
+                    "rpcUrl": "https://rpc.gnosischain.com",
+                    "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                    "gnosisSafe": {
+                      "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                      "addressPrefix": "xdai",
+                      "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                    }
+                  },
+                  "sortKey": "001",
+                  "__typename": "PaymentNetwork"
+                }
+              },
+              "tokenId": "3dfe4128-0d7b-4f46-9816-193bf151200e",
+              "payments": [
+                {
+                  "id": "491d41ba-3d3e-4fd1-a160-b2ed0cda32ef",
+                  "amount": "1000000000000000000000",
+                  "user": {
+                    "id": "96c9113e-452e-4f3d-b681-c9e49b63286f",
+                    "username": "NateSuits",
+                    "imageUrl": null,
+                    "permalink": "https://app.dework.xyz/profile/NateSuits",
+                    "nodeId": "4dab9c52-fe04-4b2f-bf83-7e4227ec4ffe",
+                    "__typename": "User"
+                  },
+                  "payment": {
+                    "id": "5ebbe191-eeb7-4019-aaa8-a40143d5035d",
+                    "status": "CONFIRMED",
+                    "data": {
+                      "safeTxHash": "0x755542c9139005b835930ded737fe978985d7a1054dc179cb7fb0c2d8d47ff74",
+                      "txHash": "0xa191582b2c3f2d03573e06ebaea927580c735cd8c33e245cec78c58ae28badd3"
+                    },
+                    "paymentMethod": {
+                      "id": "7447f9d8-b37c-4baa-b219-9b5419db9c67",
+                      "type": "GNOSIS_SAFE",
+                      "address": "0xC61D393944C01B2E8c396B036C23F226F9bF8eAF",
+                      "network": {
+                        "id": "a94d7e9b-83da-4f55-af5b-876cbb8df182",
+                        "slug": "gnosis-chain",
+                        "name": "xDai (Gnosis Chain)",
+                        "type": "ETHEREUM",
+                        "config": {
+                          "chainId": 100,
+                          "rpcUrl": "https://rpc.gnosischain.com",
+                          "explorerUrl": "https://blockscout.com/xdai/mainnet",
+                          "gnosisSafe": {
+                            "serviceUrl": "https://safe-transaction.xdai.gnosis.io",
+                            "addressPrefix": "xdai",
+                            "safeUrlPrefix": "https://gnosis-safe.io/app/xdai:"
+                          }
+                        },
+                        "sortKey": "001",
+                        "__typename": "PaymentNetwork"
+                      },
+                      "__typename": "PaymentMethod"
+                    },
+                    "__typename": "Payment"
+                  },
+                  "__typename": "TaskRewardPayment"
+                }
+              ],
+              "count": null,
+              "type": "FIXED",
+              "__typename": "TaskReward"
+            }
+          ],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "79280175-cdac-4455-900f-d1ae942ec10b",
+          "name": "Set Hatcher tag in contact list",
+          "description": "Include any sub categories before we open up to the publi",
+          "status": "TODO",
+          "priority": "NONE",
+          "sortKey": "1641853564198",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-01-10T22:26:04.289Z",
+          "doneAt": null,
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 19,
+          "gating": "APPLICATION",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 1,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [],
+          "owners": [
+            {
+              "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+              "username": "chuygarcia",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+              "permalink": "https://app.dework.xyz/profile/chuygarcia",
+              "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "1c6ab24c-fccc-4470-9214-3d2526bbda33",
+            "username": "chuygarcia",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/1062d8a6-172c-4003-a2ad-87dd537e8652/xdaipunk7321_3dgrading.png",
+            "permalink": "https://app.dework.xyz/profile/chuygarcia",
+            "nodeId": "87093476-f4b9-4f4e-8a3a-70b335df7ff1",
+            "__typename": "User"
+          },
+          "rewards": [],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "3436b938-4d9c-4f0a-9468-5e5e94a1ad33",
+          "name": "Assigning a contact list admin",
+          "description": "A",
+          "status": "IN_PROGRESS",
+          "priority": "NONE",
+          "sortKey": "1641852633705",
+          "storyPoints": null,
+          "dueDate": "2022-05-22T14:09:42.930Z",
+          "createdAt": "2022-01-10T22:10:33.706Z",
+          "doneAt": null,
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 18,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 1,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "11350167-293c-46b5-8860-a4847e619d9e",
+              "username": "r33pich33p",
+              "imageUrl": "https://cdn.discordapp.com/avatars/336423896599232512/06d14ff234b51011880510cb8be34df2.jpg",
+              "permalink": "https://app.dework.xyz/profile/r33pich33p",
+              "nodeId": "a16f1d8e-4f80-4d4c-b6a1-fd44ae46425f",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "75fb499b-8051-47d6-8516-11fad1f8c0e1",
+          "name": "Taking inventory of all of our Hubspot data sources",
+          "description": "",
+          "status": "TODO",
+          "priority": "NONE",
+          "sortKey": "1641852298680",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-01-10T22:04:58.681Z",
+          "doneAt": null,
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 17,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "e6d3175b-45a7-42f3-a227-d28f0cc8b374",
+              "username": "durgadas",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/54276139-6ace-4999-9999-dd7e8687f07f/dd-looksup1.jpg",
+              "permalink": "https://app.dework.xyz/profile/durgadas",
+              "nodeId": "08741651-f538-404c-8abf-d3c0c1e06944",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        },
+        {
+          "id": "3dc782de-30b0-4dae-a350-4e60a1a5bf12",
+          "name": "Getting data into Hubspot",
+          "description": null,
+          "status": "TODO",
+          "priority": "NONE",
+          "sortKey": "1641852250189",
+          "storyPoints": null,
+          "dueDate": null,
+          "createdAt": "2022-01-10T22:04:10.191Z",
+          "doneAt": null,
+          "deletedAt": null,
+          "template": false,
+          "templateTaskId": null,
+          "templateTask": null,
+          "workspaceId": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+          "workspace": {
+            "id": "bee236b3-dd74-471e-800e-7dc8c6e3a4a2",
+            "slug": "hubspot-team",
+            "name": "Marketing TEAM",
+            "icon": null,
+            "type": "FOLDER",
+            "status": "ACTIVE",
+            "description": null,
+            "startAt": null,
+            "endAt": null,
+            "deletedAt": null,
+            "organizationId": "22a00c04-c013-4af6-bcbe-9a5356d3cd9c",
+            "permalink": "https://app.dework.xyz/comms-team-dao/hubspot-team",
+            "sectionId": null,
+            "parentId": null,
+            "sortKey": "1655220114230",
+            "roadmapSortKey": "1640888877",
+            "options": {
+              "showCommunitySuggestions": false,
+              "__typename": "WorkspaceOptions"
+            },
+            "__typename": "Workspace"
+          },
+          "parentTaskId": null,
+          "parentTask": null,
+          "sectionId": null,
+          "number": 16,
+          "gating": "ASSIGNEES",
+          "openToBids": false,
+          "submissionCount": 0,
+          "applicationCount": 0,
+          "subtasks": [],
+          "tags": [],
+          "skills": [],
+          "assignees": [
+            {
+              "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+              "username": "Mount Manu",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+              "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+              "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+              "__typename": "User"
+            }
+          ],
+          "owners": [
+            {
+              "id": "e6d3175b-45a7-42f3-a227-d28f0cc8b374",
+              "username": "durgadas",
+              "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/54276139-6ace-4999-9999-dd7e8687f07f/dd-looksup1.jpg",
+              "permalink": "https://app.dework.xyz/profile/durgadas",
+              "nodeId": "08741651-f538-404c-8abf-d3c0c1e06944",
+              "__typename": "User"
+            }
+          ],
+          "creator": {
+            "id": "aa4199c7-63b9-43cc-80e4-a6b8b9d042b4",
+            "username": "Mount Manu",
+            "imageUrl": "https://storage.googleapis.com/assets.dework.xyz/uploads/efc3fc30-4507-4c87-947e-152b75ee3550/11541486_10155717258325652_1975309080_o-copy-2.jpg",
+            "permalink": "https://app.dework.xyz/profile/Mount%20Manu",
+            "nodeId": "592339ad-5b55-44e6-907e-4c3e882693e9",
+            "__typename": "User"
+          },
+          "rewards": [],
+          "review": null,
+          "reactions": [],
+          "__typename": "Task"
+        }
+      ],
+      "__typename": "Workspace"
+    }
+  }
+}

@@ -7,13 +7,13 @@ from web3 import Web3
 web3 = Web3(Web3.HTTPProvider('https://rpc.gnosischain.com'))
 web3.isConnected()
 
-input_json = '/home/rxx/Documents/GitHub/tec-data-analysis/dework_json_to_csv/20220724_twitter_team.json'
+input_json = '20220724_twitter_team.json'
 team = 'Twitter T.E.A.M.'
 
-output_csv = "/home/rxx/Documents/GitHub/tec-data-analysis/dework_json_to_csv/"+team.replace('.', '_').replace(' ', '_')+".csv"
+output_csv = team.replace('.', '_').replace(' ', '_')+".csv"
 
 df = pandas.read_json(open(input_json, "r", encoding="utf8"), orient='records')
-
+print(df.head())
 json_dict = list(df["data"])[0]['tasks']
 
 # extract each column in the nested dictionary
